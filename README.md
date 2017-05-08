@@ -1,7 +1,7 @@
 # Note Blog
 เก็บบทความดีๆ หรือน่าสนใจ ไว้อ่านภายหลัง
 
------
+
 
 ### [No Estimates](https://medium.com/agile-development-in-thai/no-estimates-77d63ff36b75)
 > สร้างวิธีการวางแผนงานแบบใหม่โดย “ไม่มีการ Estimate แม่มเลย”
