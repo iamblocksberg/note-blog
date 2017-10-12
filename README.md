@@ -12,6 +12,11 @@
 
 # Done
 
+[แม้เป็น Developer มือใหม่ ก็สร้าง Brand ให้ตนเองได้](https://www.techstarthailand.com/blog/detail/Building-your-personal-brand-as-a-new-web-developer/308)
+> แม้เป็น Developer มือใหม่ ก็สร้าง Brand ให้ตนเองได้
+
+
+
 [Under-Planning vs. Over-Planning](https://medium.com/pure-project-management/under-planning-vs-over-planning-5e04b0bfd446)
 > ถ้าชีวิตไม่มีความพอดี … ให้เลือกระหว่าง “วางแผนน้อยไป” กับ “วางแผนมากไป” ผมจะเลือกอะไร?
 
