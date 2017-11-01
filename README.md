@@ -12,6 +12,15 @@
 
 # Done
 
+[เล่าประสบการณ์การไปเยี่ยมชมบริษัทใน Silicon Valley](https://blog.panjmp.com/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B9%83%E0%B8%99-silicon-valley-8534991dd747)
+> เล่าประสบการณ์การไปเยี่ยมชมบริษัทใน Silicon Valley
+
+
+
+[เข้มข้นกับ Firebase Cloud Firestore ระบบฐานข้อมูลที่เปิดตัวใหม่ล่าสุดจาก Firebase แบบจัดเต็ม](https://medium.com/@thanongkiattamtai/%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A-firebase-cloud-firestore-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%88%E0%B8%B2%E0%B8%81-firebase-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1-d001e43e2be7)
+> เข้มข้นกับ Firebase Cloud Firestore ระบบฐานข้อมูลที่เปิดตัวใหม่ล่าสุดจาก Firebase แบบจัดเต็ม
+
+
 [แม้เป็น Developer มือใหม่ ก็สร้าง Brand ให้ตนเองได้](https://www.techstarthailand.com/blog/detail/Building-your-personal-brand-as-a-new-web-developer/308)
 > แม้เป็น Developer มือใหม่ ก็สร้าง Brand ให้ตนเองได้
 
