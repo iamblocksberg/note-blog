@@ -3,6 +3,11 @@
 
 
 
+[React คืออะไร? ไขข้อสงสัยสำหรับมือใหม่ + แนวทางการหัด React ตั้งแต่เริ่มต้น](https://www.designil.com/react-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+> React คืออะไร? ไขข้อสงสัยสำหรับมือใหม่ + แนวทางการหัด React ตั้งแต่เริ่มต้น
+
+
+
 [No Estimates](https://medium.com/agile-development-in-thai/no-estimates-77d63ff36b75)
 > สร้างวิธีการวางแผนงานแบบใหม่โดย “ไม่มีการ Estimate แม่มเลย”
 
